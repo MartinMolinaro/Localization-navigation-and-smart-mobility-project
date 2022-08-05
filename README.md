@@ -3,6 +3,7 @@ Localization, navigation and smart mobility project - Localization of an AGV - P
 
 
 In the matlab folder:
+
 The matlab main script is : main_project.mlx 
 This file also contains comments and explanations, and it's totally flexible thanks to a control implementation (the controls are set in std configuration).
 
